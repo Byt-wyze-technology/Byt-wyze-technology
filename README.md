@@ -68,11 +68,11 @@ If you’d like to collaborate or integrate our tools, feel free to reach out.
 
 ## 🗺 Roadmap (2025)
 
-- Formal STTF v1.1 specification  
-- Extended preprocessing opcode sets  
-- Deterministic dataset generator suite  
-- Benchmarking + reproducibility tools  
-- Additional deterministic APIs (CNF structure analysis, SAT hardness metrics)
+- Formal STTF v1.0 registration & OIS number  
+- SAT Maker api #2 next gen CNF maker 
+- Deterministic dataset suites for competition  
+- SAT tools & different mathematical models 
+- Additional deterministic APIs  
 
 ---
 
