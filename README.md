@@ -3,12 +3,6 @@
 <div style="background:#050509; color:#f9fafb; padding:32px 24px; border-radius:16px;">
 
   <p align="center">
-    <img src="https://www.byt-wyze.com/byt-wyze-logo.png"
-         alt="BYT-WYZE Logo"
-         width="140" />
-  </p>
-
-  <p align="center">
     <img src="https://www.byt-wyze.com/assets/sat-maker-hero-CUYhIwxq.jpg"
          alt="BYT-WYZE Banner"
          width="100%" />
