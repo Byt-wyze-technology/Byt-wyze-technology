@@ -3,7 +3,7 @@
 <div style="background:#050509; color:#f9fafb; padding:32px 24px; border-radius:16px;">
 
   <p align="center">
-    <img src="https://lcromqmthhbfcjsxjbwk.supabase.co/storage/v1/object/public/images//byt-wyze logo only favicon.png"
+    <img src="https://lcromqmthhbfcjsxjbwk.supabase.co/storage/v1/object/public/images//byt-wyze_logo_only_favicon.png"
          alt="BYT-WYZE Banner"
          width="100%" />
   </p>
